@@ -1,6 +1,6 @@
 # make_it_rain
 
-A very simple app to increase the money in a supposed account {Ovbviosly its not a real account, just for fun, only if it was possible :) }
+A very simple app to increase the money in a supposed account {Obviosly its not a real account, just for fun, only if it was possible :) }
 
 ## Getting Started
 
